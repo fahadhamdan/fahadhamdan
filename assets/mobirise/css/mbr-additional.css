@@ -2236,6 +2236,9 @@ body {
 .cid-qMncnCZl9Q H5 {
   color: #55b4d4;
 }
+.cid-qMncnCZl9Q .copyright > p {
+  text-align: left;
+}
 .cid-qNYdC8glHF .navbar {
   padding: .5rem 0;
   background: #ffffff;
